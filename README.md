@@ -1,2 +1,2 @@
 # -resume
-https://ann1kur.github.io/-resume/cv
+https://ann1kur.github.io/-resume/
