@@ -28,6 +28,7 @@
  -----
  ## Work Experience: 
  __Junior Dev__
+ 
  -----
  ## Langueges:
  * __English__
